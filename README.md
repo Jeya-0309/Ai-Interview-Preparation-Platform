@@ -139,35 +139,35 @@ OPENAI_API_KEY=YOUR_OPENAI_KEY
 ---
 ###  Interview History
 
-![Interview](screenshots/interview history.png)
+![Interview](screenshots/interview_history.png)
 
 ---
 ###  Interview score
 
-![Interview](screenshots/interview score.png)
+![Interview](screenshots/interview_score.png)
 
 ---
 
 ### Resume Analyzer
 
-![Resume](screenshots/resume analyser.png)
+![Resume](screenshots/resume_analyser.png)
 
 ---
 
 ### Resume score
 
-![Resume](screenshots/resume score.png)
+![Resume](screenshots/resume_score.png)
 
 ---
 
 ### Dashboard Result
 
-![Dashboard](screenshots/dashboard result.png)
+![Dashboard](screenshots/dashboard_result.png)
 
 ---
 ### Responsiveness design
 
-![Dashboard](screenshots/responsive design.png)
+![Dashboard](screenshots/responsive_design.png)
 
 ---
 
